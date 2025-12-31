@@ -450,7 +450,7 @@ Contributions are welcome! Please follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/assistant_side_bar.git
+git clone https://github.com/joselaracode/assistant_side_bar.git
 
 # Navigate to the package directory
 cd assistant_side_bar

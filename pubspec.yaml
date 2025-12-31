@@ -1,9 +1,9 @@
 name: assistant_side_bar
 description: A Flutter package for creating a draggable overlay sidebar widget that can be expanded, collapsed to edges, and dismissed to a target.
 version: 0.1.0
-homepage: https://github.com/example/assistant_side_bar
-repository: https://github.com/example/assistant_side_bar
-issue_tracker: https://github.com/example/assistant_side_bar/issues
+homepage: https://github.com/joselaracode/assistant_side_bar
+repository: https://github.com/joselaracode/assistant_side_bar
+issue_tracker: https://github.com/joselaracode/assistant_side_bar/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
